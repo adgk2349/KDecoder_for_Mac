@@ -2,6 +2,10 @@
 
 > 윈도우에서 옮긴 한글 파일명이 깨질 때, 드래그 한 번으로 해결하는 macOS 메뉴바 앱
 
+[![Mac App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/kr/app/kdecoder-%EA%B9%A8%EC%A7%84-%ED%95%9C%EA%B8%80-%ED%8C%8C%EC%9D%BC%EB%AA%85-%EB%B3%B5%EC%9B%90/id6806795869?mt=12)
+
+**[Mac App Store에서 KDecoder 다운로드](https://apps.apple.com/kr/app/kdecoder-%EA%B9%A8%EC%A7%84-%ED%95%9C%EA%B8%80-%ED%8C%8C%EC%9D%BC%EB%AA%85-%EB%B3%B5%EC%9B%90/id6806795869?mt=12)**
+
 ---
 
 ## 📌 소개
