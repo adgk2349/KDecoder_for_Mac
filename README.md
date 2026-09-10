@@ -6,6 +6,8 @@
 
 **[Mac App Store에서 KDecoder 다운로드](https://apps.apple.com/kr/app/kdecoder-%EA%B9%A8%EC%A7%84-%ED%95%9C%EA%B8%80-%ED%8C%8C%EC%9D%BC%EB%AA%85-%EB%B3%B5%EC%9B%90/id6806795869?mt=12)**
 
+> **App Store 버전 안내:** App Store에 배포된 KDecoder는 이 저장소의 공개 소스를 기반으로 안정성과 사용성을 개선한 최신판입니다. 실제 사용은 App Store 버전을 권장합니다.
+
 ---
 
 ## 📌 소개
@@ -93,4 +95,4 @@ KDecoder가 도움이 되셨다면 후원을 고려해 주세요!
 
 ## © 저작권
 
-Copyright (c) 2026 adgk2349
+Copyright © 2026 Redbridge Company. All rights reserved.
